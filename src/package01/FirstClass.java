@@ -5,6 +5,7 @@ public class FirstClass {
 		
 		System.out.println("ilk commit from local repo");
 		System.out.println("ikinci commit from local repo");
+		System.out.println("yeni btanch olusturdum adi feature");
 		
 		
 		
